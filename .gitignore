@@ -59,7 +59,8 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+.env.test
+.env.development
 
 # stupid apple files
 .DS_Store
