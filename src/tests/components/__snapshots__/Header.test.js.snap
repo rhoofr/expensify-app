@@ -8,8 +8,7 @@ exports[`should render Header correctly 1`] = `
     </h1>
     <[object Object]
       activeClassName="is-active"
-      exact={true}
-      to="/"
+      to="/dashboard"
     >
       Home
     </[object Object]>
@@ -22,6 +21,11 @@ exports[`should render Header correctly 1`] = `
     >
       Add Expense
     </[object Object]>
+    <button
+      onClick={[Function]}
+    >
+      Logout
+    </button>
   </header>
 </div>
 `;
